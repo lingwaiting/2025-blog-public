@@ -47,7 +47,7 @@
 			"type": "github",
 			"value": "https://github.com/lingwaiting",
 			"label": "Github",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "email",
@@ -61,7 +61,7 @@
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/505684423?spm_id_from=333.1007.0.0",
 			"label": "Bilibili",
-			"order": 3
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
