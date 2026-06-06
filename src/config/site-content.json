@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Ayor",
-		"description": "ling的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "ling的个人博客，记录前端开发、探索、笔记。",
 		"username": "ling"
 	},
 	"theme": {
@@ -45,7 +45,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/lingwaiting",
 			"label": "Github",
 			"order": 3
 		},
@@ -59,7 +59,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "2114545659@qq.com",
 			"label": "",
 			"order": 1
 		}
