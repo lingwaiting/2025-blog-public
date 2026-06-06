@@ -1,5 +1,5 @@
 {
-	"title": "关于本站",
-	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"title": "LING WIKI",
+	"description": "リングウィキ",
+	"content": "# Hi, I'm Ling ✨\n\n🌱 Born on February 17, 2005, in China.\n\nI'm a recreational programmer, open-source enthusiast, and currently a third-year Computer Science undergraduate.\n\nI enjoy spending my time building interesting projects, exploring new ideas, and understanding the design behind systems.\n\nI'm grateful to live in an open-source world. VS Code is one of my favorite tools. TvT\n\nI’m always happy to contribute to fun projects and creative ideas. Feel free to reach out via email if you'd like to collaborate.\n\nIf you're interested in what I'm building, you're welcome to join me on this journey.\n\n> \"The mission of learning is to understand the design behind things.\"\n\n> \"Automate everything that can be sustainably automated.\"\n\n---\n\nFor suggestions, ideas, questions, or feedback about this website, feel free to open an issue in the X-plore repository or send me an email."
 }
